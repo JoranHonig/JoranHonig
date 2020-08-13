@@ -1,8 +1,11 @@
-### Hi there 👋 I'm Joran
 
 ![Banner](https://raw.githubusercontent.com/JoranHonig/JoranHonig/master/cover.png)
 
 ---
+
+- 🔭 I'm currently working on automatic exploitation and vulnerability detection at [ConsenSys Diligence](https://diligence.consensys.net/)
+- 🌱 I’m currently learning how to make ROP chains work
+
 ### 
 <!--
 **JoranHonig/JoranHonig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
