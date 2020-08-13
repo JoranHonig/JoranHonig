@@ -7,6 +7,8 @@
 
 🔍 I'm currently learning more about Binary Exploitation
 
+👀 I'm interested in Security Automation and DevSecOps
+
 <!--
 **JoranHonig/JoranHonig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
