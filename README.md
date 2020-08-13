@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Joran
 
-![Banner](./cover.png)
+![Banner](/JoranHonig/JoranHonig/cover.png)
 
 ---
 ### 
