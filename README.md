@@ -3,8 +3,9 @@
 
 ---
 
-- 🔭 I'm currently working on automatic exploitation and vulnerability detection at [ConsenSys Diligence](https://diligence.consensys.net/)
-- 🌱 I’m currently learning how to make ROP chains work
+🔭 I'm currently working on automatic exploitation and vulnerability detection at [ConsenSys Diligence](https://diligence.consensys.net/)
+
+🌱 I’m currently learning how to make ROP chains work
 
 ### 
 <!--
