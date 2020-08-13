@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Joran
 
-![Banner](./JoranHonig/JoranHonig/cover.png)
+![Banner](https://raw.githubusercontent.com/JoranHonig/JoranHonig/master/cover.png)
 
 ---
 ### 
